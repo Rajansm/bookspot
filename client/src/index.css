@@ -1,0 +1,12 @@
+h1,
+h2 {
+  margin: 0;
+  font-family: Candara;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #202028;
+  font-family: "Montserrat", "Roboto", "Helvetica", "Arial", sans-serif;
+}
